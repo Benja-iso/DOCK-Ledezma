@@ -46,3 +46,7 @@ docker images
 # Eliminar una imagen específica
 docker rmi <nombre_de_la_imagen_o_id>
 🤝 ContribucionesSiéntete libre de clonar este repositorio, modificar los ejemplos o añadir los tuyos propios. ¡Las contribuciones son bienvenidas! 
+# Instalacion del Flask
+![Captura de pantalla 2025-06-27 153903](https://github.com/user-attachments/assets/c468afde-46d4-4c5e-ac95-88af1ed629f0)
+
+
